@@ -1,0 +1,47 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+.Rapp.history
+*.Rproj
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# R Environment Variables
+.Renviron
+.Renviron.local
+
+# Temporary files
+*~
+*.swp
+*.swo
+.#*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Note: CSV files in data/ are tracked intentionally

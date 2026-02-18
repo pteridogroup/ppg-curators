@@ -1,0 +1,53 @@
+name: Import Google Sheets Data
+
+on:
+  # Allow manual triggering from GitHub Actions tab
+  workflow_dispatch:
+
+  # Run automatically every day at 2 AM UTC
+  schedule:
+    - cron: "0 2 * * *"
+
+  # Optional: Run on push to main (for testing)
+  # push:
+  #   branches:
+  #     - main
+
+jobs:
+  import-sheets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: "release"
+
+      - name: Install R packages
+        run: |
+          install.packages(c("googlesheets4", "readr"))
+        shell: Rscript {0}
+
+      - name: Run import script
+        run: Rscript scripts/import_sheets.R
+
+      - name: Check for changes
+        id: verify_diff
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.csv
+          git commit -m "Update CSV data from Google Sheets [$(date -u +%Y-%m-%d\ %H:%M:%S\ UTC)]"
+          git push
+
+      - name: No changes detected
+        if: steps.verify_diff.outputs.changed != 'true'
+        run: echo "No changes detected in the data"
