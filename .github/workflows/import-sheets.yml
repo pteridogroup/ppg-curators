@@ -9,9 +9,9 @@ on:
     - cron: "0 2 * * *"
 
   # Optional: Run on push to main (for testing)
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 jobs:
   import-sheets:
