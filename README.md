@@ -1,12 +1,19 @@
 # Curators Data Repository
 
-Automated import of data from Google Sheets to CSV files.
+Automated import of data from Google Sheets to CSV files for [Pteridophyte Phylogeny Group (PPG)](https://pteridogroup.github.io/).
 
 ## Overview
 
 This repository automatically imports data from a public Google Spreadsheet
 and stores it as CSV files. The import runs daily and can also be triggered
 manually.
+
+You can find the data files here:
+
+- [`curators.csv`](data/curators.csv): List of curator names and [ORCID iDs](https://orcid.org/)
+- [`genera.csv`](data/genera.csv): List of fern and lycophyte genera and their curators
+
+For more information about Curators in PPG, see the [Curator's Guide](https://pteridogroup.github.io/curators.html)
 
 ## Data Source
 
