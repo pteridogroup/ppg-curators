@@ -1,4 +1,4 @@
-# Curators Data Repository
+# PPG Curators Data Repository
 
 Automated import of data from Google Sheets to CSV files for [Pteridophyte Phylogeny Group (PPG)](https://pteridogroup.github.io/).
 
