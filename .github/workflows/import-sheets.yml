@@ -13,6 +13,10 @@ on:
     branches:
       - main
 
+# Add permissions to allow the workflow to push changes
+permissions:
+  contents: write
+
 jobs:
   import-sheets:
     runs-on: ubuntu-latest
