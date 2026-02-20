@@ -1,28 +1,36 @@
-name,orcid
-Joel Nitta,0000-0003-4719-7472
-Carl Rothfels,0000-0002-6605-1770
-Eric Schuettpelz,0000-0003-3891-9904
-Harald Schneider,0000-0002-4548-7268
-André Luís de Gasper,0000-0002-1940-9581
-Sarah K. Morris,0000-0001-6965-7615
-Lucas Vieira Lima,0000-0003-1517-7100
-Diego Tavares Vasques,0000-0001-7978-2516
-Ashley Field,0000-0002-0139-7914
-Ran Wei,0000-0001-7393-9965
-Kiyotaka Hori,0000-0002-6815-7595
-Li-Yaung Kuo,0000-0002-3388-3757
-Jean-Yves Dubuisson,0000-0002-3050-1901
-Guillermo Santos,0009-0004-2782-3397
-Tian-Chuan Hsu,0000-0002-2612-1885
-Marcelo Arana,0000-0001-7921-6186
-Agustina	Yañez,0000-0002-4508-2148
-Mario Mairal,0000-0002-6588-5634
-Paulo H. Labiak,0000-0002-5239-2048
-Sabine Hennequin,0000-0002-9604-0116
-Atiles Reis Junior,0000-0002-2278-9669
-Sylvia Kinosian,0000-0002-0918-7196
-Erin Sigel,0000-0001-8656-7726
-Thaís Elias Almeida,0000-0002-1611-1333
-Vanessa Lino,0000-0002-3510-6580
-Sonia Molino de Miguel,0000-0003-2396-4649
-Yea-Chen Liu,0009-0001-3342-9773
+name,orcid,email
+Agustina	Yañez,0000-0002-4508-2148,NA
+André Luís de Gasper,0000-0002-1940-9581,NA
+Ashley Field,0000-0002-0139-7914,NA
+Atiles Reis Junior,0000-0002-2278-9669,NA
+Carl Rothfels,0000-0002-6605-1770,carl.rothfels@usu.edu
+Dieder de Frens,0009-0008-4022-358X,NA
+Diego Tavares Vasques,0000-0001-7978-2516,NA
+Eric Schuettpelz,0000-0003-3891-9904,NA
+Erin Sigel,0000-0001-8656-7726,NA
+Esteban Ismael Meza-Torres,0000-0002-5803-281X,NA
+Guillermo Santos,0009-0004-2782-3397,NA
+Harald Schneider,0000-0002-4548-7268,NA
+Jean-Yves Dubuisson,0000-0002-3050-1901,NA
+Jessie Pelosi,0000-0002-2861-3445,NA
+Joel Nitta,0000-0003-4719-7472,NA
+Jovani Bernardino de Souza Pereira,0000-0001-8964-343X,NA
+Kiyotaka Hori,0000-0002-6815-7595,NA
+Li-Yaung Kuo,0000-0002-3388-3757,NA
+Lucas Vieira Lima,0000-0003-1517-7100,NA
+Marcelo Arana,0000-0001-7921-6186,NA
+Marcus Lehnert,0000-0002-7202-7734,NA
+Mario Mairal,0000-0002-6588-5634,NA
+Paulo H. Labiak,0000-0002-5239-2048,NA
+Ran Wei,0000-0001-7393-9965,NA
+Sabine Hennequin,0000-0002-9604-0116,NA
+Samuli Lehtonen,0000-0001-6235-2026,NA
+Sarah K. Morris,0000-0001-6965-7615,NA
+Sonia Molino de Miguel,0000-0003-2396-4649,NA
+Sylvia Kinosian,0000-0002-0918-7196,NA
+Thaís Elias Almeida,0000-0002-1611-1333,NA
+Tian-Chuan Hsu,0000-0002-2612-1885,NA
+Vanessa Lino,0000-0002-3510-6580,NA
+Vinícius Antonio de Oliveira Dittrich,0000-0002-6950-1335,NA
+Yea-Chen Liu,0009-0001-3342-9773,NA
+Alexandre Salino,0000-0003-0104-7524,NA

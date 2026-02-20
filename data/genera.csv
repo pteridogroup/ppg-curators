@@ -15,21 +15,21 @@ Lycopodiopsida,NA,Lycopodiales,NA,Lycopodiaceae,Lycopodioideae,Lycopodium,NA,NA,
 Lycopodiopsida,NA,Lycopodiales,NA,Lycopodiaceae,Lycopodioideae,Pseudodiphasium,NA,NA,NA,NA
 Lycopodiopsida,NA,Lycopodiales,NA,Lycopodiaceae,Lycopodioideae,Pseudolycopodium,NA,NA,NA,NA
 Lycopodiopsida,NA,Lycopodiales,NA,Lycopodiaceae,Lycopodioideae,Spinulum,NA,NA,NA,NA
-Lycopodiopsida,NA,Isoetales,NA,Isoetaceae,NA,Isoetes,NA,NA,NA,NA
+Lycopodiopsida,NA,Isoetales,NA,Isoetaceae,NA,Isoetes,Jovani Bernardino de Souza Pereira,NA,NA,NA
 Lycopodiopsida,NA,Selaginellales,NA,Selaginellaceae,NA,Selaginella,NA,NA,NA,NA
 Polypodiopsida,Equisetidae,Equisetales,NA,Equisetaceae,NA,Equisetum,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Psilotales,NA,Psilotaceae,NA,Psilotum,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Psilotales,NA,Psilotaceae,NA,Tmesipteris,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrychium,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrypus,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Japanobotrychium,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sahashia,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sceptridium,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Helminthostachyoideae,Helminthostachys,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Mankyuoideae,Mankyua,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Cheiroglossa,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Ophioderma,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Ophioglossum,NA,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrychium,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrypus,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Japanobotrychium,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sahashia,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sceptridium,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Helminthostachyoideae,Helminthostachys,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Mankyuoideae,Mankyua,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Cheiroglossa,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Ophioderma,Esteban Ismael Meza-Torres,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Ophioglossum,Esteban Ismael Meza-Torres,NA,NA,NA
 Polypodiopsida,Marattiidae,Marattiales,NA,Marattiaceae,NA,Angiopteris,Agustina	Yañez,NA,NA,NA
 Polypodiopsida,Marattiidae,Marattiales,NA,Marattiaceae,NA,Christensenia,Agustina	Yañez,NA,NA,NA
 Polypodiopsida,Marattiidae,Marattiales,NA,Marattiaceae,NA,Danaea,Agustina	Yañez,NA,NA,NA
@@ -65,7 +65,7 @@ Polypodiopsida,Polypodiidae,Gleicheniales,NA,Matoniaceae,NA,Matonia,Agustina	Ya�
 Polypodiopsida,Polypodiidae,Gleicheniales,NA,Matoniaceae,NA,Phanerosorus,Agustina	Yañez,NA,NA,NA
 Polypodiopsida,Polypodiidae,Gleicheniales,NA,Dipteridaceae,NA,Cheiropleuria,Agustina	Yañez,NA,NA,NA
 Polypodiopsida,Polypodiidae,Gleicheniales,NA,Dipteridaceae,NA,Dipteris,Agustina	Yañez,NA,NA,NA
-Polypodiopsida,Polypodiidae,Schizaeales,NA,Lygodiaceae,NA,Lygodium,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Schizaeales,NA,Lygodiaceae,NA,Lygodium,Jessie Pelosi,NA,NA,NA
 Polypodiopsida,Polypodiidae,Schizaeales,NA,Schizaeaceae,NA,Actinostachys,Li-Yaung Kuo,Thaís Elias Almeida,NA,NA
 Polypodiopsida,Polypodiidae,Schizaeales,NA,Schizaeaceae,NA,Microschizaea,Li-Yaung Kuo,Thaís Elias Almeida,NA,NA
 Polypodiopsida,Polypodiidae,Schizaeales,NA,Schizaeaceae,NA,Schizaea,Li-Yaung Kuo,Thaís Elias Almeida,NA,NA
@@ -82,24 +82,24 @@ Polypodiopsida,Polypodiidae,Cyatheales,NA,Plagiogyriaceae,NA,Plagiogyria,NA,NA,N
 Polypodiopsida,Polypodiidae,Cyatheales,NA,Culcitaceae,NA,Culcita,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Cyatheales,NA,Metaxyaceae,NA,Metaxya,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Cyatheales,NA,Cibotiaceae,NA,Cibotium,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Dicksoniaceae,NA,Calochlaena,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Dicksoniaceae,NA,Dicksonia,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Dicksoniaceae,NA,Lophosoria,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Alsophila,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Cyathea,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Gymnosphaera,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Sphaeropteris,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Dicksoniaceae,NA,Calochlaena,Marcus Lehnert,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Dicksoniaceae,NA,Dicksonia,Marcus Lehnert,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Dicksoniaceae,NA,Lophosoria,Marcus Lehnert,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Alsophila,Marcus Lehnert,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Cyathea,Marcus Lehnert,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Gymnosphaera,Marcus Lehnert,NA,NA,NA
+Polypodiopsida,Polypodiidae,Cyatheales,NA,Cyatheaceae,NA,Sphaeropteris,Marcus Lehnert,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Saccolomatineae,Saccolomataceae,NA,Saccoloma,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Cystodiaceae,NA,Cystodium,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lonchitidaceae,NA,Lonchitis,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Lindsaea,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Nesolindsaea,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Odontosoria,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Osmolindsaea,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Sphenomeris,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Tapeinidium,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Xyropteris,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,× Lindsaeosoria,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Lindsaea,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Nesolindsaea,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Odontosoria,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Osmolindsaea,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Sphenomeris,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Tapeinidium,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,Xyropteris,Samuli Lehtonen,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Lindsaeineae,Lindsaeaceae,NA,× Lindsaeosoria,Samuli Lehtonen,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Pteridineae,Pteridaceae,Adiantoideae,Adiantum,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Pteridineae,Pteridaceae,Cheilanthoideae,Adiantopsis,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Pteridineae,Pteridaceae,Cheilanthoideae,Aleuritopteris,NA,NA,NA,NA
@@ -175,10 +175,10 @@ Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Mu
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Paesia,Agustina	Yañez,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Pteridium,Agustina	Yañez,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Sitobolium,Agustina	Yañez,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,Acystopteris,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,Cystopteris,Carl Rothfels,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,Gymnocarpium,Carl Rothfels,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,× Cystocarpium,Carl Rothfels,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,Acystopteris,Dieder de Frens,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,Cystopteris,Carl Rothfels,Dieder de Frens,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,Gymnocarpium,Carl Rothfels,Dieder de Frens,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Cystopteridaceae,NA,× Cystocarpium,Carl Rothfels,Dieder de Frens,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Rhachidosoraceae,NA,Rhachidosorus,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Diplaziopsidaceae,NA,Diplaziopsis,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Aspleniaceae,NA,Asplenium,Atiles Reis Junior,Vanessa Lino,NA,NA
@@ -329,7 +329,7 @@ Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoi
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Cochlidium,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Ctenopterella,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Dasygrammitis,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Devolia,NA,NA,NA,2026-02-19T00:00:00Z
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Devolia,Tian-Chuan Hsu,NA,NA,2026-02-19T00:00:00Z
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Enterosora,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Galactodenia,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Glabrigrammitis,NA,NA,NA,NA
@@ -371,7 +371,7 @@ Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroid
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Platycerioideae,Hovenkampia,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Platycerioideae,Platycerium,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Platycerioideae,Pyrrosia,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Polypodioideae,Pecluma,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Polypodioideae,Pecluma,Erin Sigel,Alexandre Salino,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Polypodioideae,Phlebodium,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Polypodioideae,Pleopeltis,Sarah K. Morris,Thaís Elias Almeida,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Polypodioideae,Pleurosoriopsis,NA,NA,NA,NA
