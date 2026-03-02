@@ -20,7 +20,7 @@ Lycopodiopsida,NA,Selaginellales,NA,Selaginellaceae,NA,Selaginella,Alexandre Sal
 Polypodiopsida,Equisetidae,Equisetales,NA,Equisetaceae,NA,Equisetum,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Psilotales,NA,Psilotaceae,NA,Psilotum,J. Daniel Tejero-Díez,NA,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Psilotales,NA,Psilotaceae,NA,Tmesipteris,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrychium,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrychium,Esteban Ismael Meza-Torres,Benjamin Dauphin,Arthur Gilman,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrypus,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Japanobotrychium,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sahashia,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
@@ -74,7 +74,7 @@ Polypodiopsida,Polypodiidae,Salviniales,NA,Salviniaceae,NA,Azolla,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Salviniales,NA,Salviniaceae,NA,Salvinia,Erin Sigel,Pedro Schwartsburd,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Salviniales,NA,Marsileaceae,NA,Marsilea,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Salviniales,NA,Marsileaceae,NA,Pilularia,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Salviniales,NA,Marsileaceae,NA,Regnellidium,NA,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Salviniales,NA,Marsileaceae,NA,Regnellidium,Carl Rothfels,NA,NA,NA,NA,2026-03-01T00:00:00Z
 Polypodiopsida,Polypodiidae,Cyatheales,NA,Thyrsopteridaceae,NA,Thyrsopteris,Marcus Lehnert,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Cyatheales,NA,Loxsomataceae,NA,Loxsoma,Marcus Lehnert,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Cyatheales,NA,Loxsomataceae,NA,Loxsomopsis,Marcus Lehnert,NA,NA,NA,NA,NA
@@ -183,10 +183,10 @@ Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Rhachidosoraceae,NA,Rhachi
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Diplaziopsidaceae,NA,Diplaziopsis,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Aspleniaceae,NA,Asplenium,Atiles Reis Junior,Vanessa Lino,Lana Sylvestre,Ke-Wang Xu,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Aspleniaceae,NA,Hymenasplenium,Vanessa Lino,Lana Sylvestre,Ke-Wang Xu,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Hemidictyaceae,NA,Hemidictyum,NA,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Hemidictyaceae,NA,Hemidictyum,Carl Rothfels,NA,NA,NA,NA,2026-03-01T00:00:00Z
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Desmophlebiaceae,NA,Desmophlebium,"Mynssen, C.M.",NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Thelypteridaceae,Phegopteridoideae,Macrothelypteris,NA,Alexandre Salino,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Thelypteridaceae,Phegopteridoideae,Phegopteris,NA,Alexandre Salino,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Thelypteridaceae,Phegopteridoideae,Phegopteris,Arthur Gilman,Alexandre Salino,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Thelypteridaceae,Phegopteridoideae,Pseudophegopteris,NA,Alexandre Salino,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Thelypteridaceae,Thelypteridoideae,Abacopteris,NA,Alexandre Salino,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Aspleniineae,Thelypteridaceae,Thelypteridoideae,Amauropelta,Thaís Elias Almeida,Alexandre Salino,NA,NA,NA,NA
@@ -271,7 +271,7 @@ Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteri
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Cyrtomium,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Dryopteris,Kiyotaka Hori,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Phanerophlebia,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Polystichum,NA,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Polystichum,David S. Barrington,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Pseudarachniodes,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,Stigmatopteris,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Dryopteridaceae,Dryopteridoideae,× Dryostichum,NA,NA,NA,NA,NA,NA
@@ -359,15 +359,15 @@ Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoi
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Grammitidoideae,Xiphopterella,NA,Barbara Parris,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Loxogrammoideae,Dictymia,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Loxogrammoideae,Loxogramme,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Bosmania,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Dendroconche,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Goniophlebium,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Lecanopteris,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Lepisorus,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Leptochilus,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Microsorum,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Thylacopteris,NA,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Zealandia,NA,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Bosmania,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Dendroconche,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Goniophlebium,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Lecanopteris,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Lepisorus,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Leptochilus,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Microsorum,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Thylacopteris,Chi-Chuan Chen,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Microsoroideae,Zealandia,Chi-Chuan Chen,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Platycerioideae,Hovenkampia,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Platycerioideae,Platycerium,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Polypodiineae,Polypodiaceae,Platycerioideae,Pyrrosia,NA,NA,NA,NA,NA,NA
