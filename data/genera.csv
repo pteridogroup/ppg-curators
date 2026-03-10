@@ -24,7 +24,7 @@ Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,B
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Botrypus,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Japanobotrychium,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sahashia,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
-Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sceptridium,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
+Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Botrychioideae,Sceptridium,Esteban Ismael Meza-Torres,Benjamin Dauphin,Sousuke Ishii,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Helminthostachyoideae,Helminthostachys,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Mankyuoideae,Mankyua,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
 Polypodiopsida,Ophioglossidae,Ophioglossales,NA,Ophioglossaceae,Ophioglossoideae,Cheiroglossa,Esteban Ismael Meza-Torres,Benjamin Dauphin,NA,NA,NA,NA
@@ -44,15 +44,15 @@ Polypodiopsida,Polypodiidae,Osmundales,NA,Osmundaceae,NA,Plenasium,Agustina	Yañ
 Polypodiopsida,Polypodiidae,Osmundales,NA,Osmundaceae,NA,Todea,Agustina	Yañez,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Osmundales,NA,Osmundaceae,NA,× Osmunasium,Agustina	Yañez,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Osmundales,NA,Osmundaceae,NA,× Osmunimunda,Agustina	Yañez,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Hymenophylloideae,Hymenophyllum,Diego Tavares Vasques,Jean-Yves Dubuisson,Sabine Hennequin,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Abrodictyum,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Callistopteris,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Cephalomanes,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Crepidomanes,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Didymoglossum,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Polyphlebium,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Trichomanes,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Vandenboschia,Diego Tavares Vasques,Jean-Yves Dubuisson,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Hymenophylloideae,Hymenophyllum,Diego Tavares Vasques,Jean-Yves Dubuisson,Sabine Hennequin,Atsushi Ebihara,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Abrodictyum,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Callistopteris,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Cephalomanes,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Crepidomanes,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Didymoglossum,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Polyphlebium,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Trichomanes,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
+Polypodiopsida,Polypodiidae,Hymenophyllales,NA,Hymenophyllaceae,Trichomanoideae,Vandenboschia,Diego Tavares Vasques,Jean-Yves Dubuisson,Atsushi Ebihara,NA,NA,NA
 Polypodiopsida,Polypodiidae,Gleicheniales,NA,Gleicheniaceae,NA,Dicranopteris,Lucas Vieira Lima,Agustina	Yañez,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Gleicheniales,NA,Gleicheniaceae,NA,Diplopterygium,Lucas Vieira Lima,Agustina	Yañez,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Gleicheniales,NA,Gleicheniaceae,NA,Gleichenella,Lucas Vieira Lima,Agustina	Yañez,NA,NA,NA,NA
@@ -166,7 +166,7 @@ Polypodiopsida,Polypodiidae,Polypodiales,Pteridineae,Pteridaceae,Vittarioideae,V
 Polypodiopsida,Polypodiidae,Polypodiales,Pteridineae,Pteridaceae,Vittarioideae,Vittaria,NA,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Blotiella,Agustina	Yañez,NA,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Dennstaedtia,Agustina	Yañez,NA,NA,NA,NA,NA
-Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Histiopteris,Agustina	Yañez,NA,NA,NA,NA,NA
+Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Histiopteris,Agustina	Yañez,Wataru Shinohara,NA,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Hiya,Agustina	Yañez,Hui Shang,NA,NA,NA,2026-03-03T00:00:00Z
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Hypolepis,Agustina	Yañez,Pedro Schwartsburd,Hui Shang,NA,NA,NA
 Polypodiopsida,Polypodiidae,Polypodiales,Dennstaedtiineae,Dennstaedtiaceae,NA,Microlepia,Agustina	Yañez,NA,NA,NA,NA,NA
